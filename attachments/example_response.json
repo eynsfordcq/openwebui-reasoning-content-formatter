@@ -1,0 +1,11 @@
+// Begin
+{"id": "gen-1741741373-eQb3m1gDVuxt8kMmWJwM", "provider": "DeepInfra", "model": "qwen/qwq-32b", "object": "chat.completion.chunk", "created": 1741741373, "choices": [{"index": 0, "delta": {"role": "assistant", "content": "", "reasoning": "Okay"}, "finish_reason": null, "native_finish_reason": null, "logprobs": null}]}
+// Reasoning
+{"id": "gen-1741741373-eQb3m1gDVuxt8kMmWJwM", "provider": "DeepInfra", "model": "qwen/qwq-32b", "object": "chat.completion.chunk", "created": 1741741373, "choices": [{"index": 0, "delta": {"role": "assistant", "content": "", "reasoning": ","}, "finish_reason": null, "native_finish_reason": null, "logprobs": null}]}
+// Reasoning End, Content starts
+{"id": "gen-1741741373-eQb3m1gDVuxt8kMmWJwM", "provider": "DeepInfra", "model": "qwen/qwq-32b", "object": "chat.completion.chunk", "created": 1741741373, "choices": [{"index": 0, "delta": {"role": "assistant", "content": "\\", "reasoning": ""}, "finish_reason": null, "native_finish_reason": null, "logprobs": null}]}
+{"id": "gen-1741741373-eQb3m1gDVuxt8kMmWJwM", "provider": "DeepInfra", "model": "qwen/qwq-32b", "object": "chat.completion.chunk", "created": 1741741373, "choices": [{"index": 0, "delta": {"role": "assistant", "content": "", "reasoning": null}, "finish_reason": null, "native_finish_reason": null, "logprobs": null}]}
+// Content ends
+{"id": "gen-1741741373-eQb3m1gDVuxt8kMmWJwM", "provider": "DeepInfra", "model": "qwen/qwq-32b", "object": "chat.completion.chunk", "created": 1741741373, "choices": [{"index": 0, "delta": {"role": "assistant", "content": "", "reasoning": null}, "finish_reason": "stop", "native_finish_reason": "stop", "logprobs": null}]}
+// Finish
+{"id": "gen-1741741373-eQb3m1gDVuxt8kMmWJwM", "provider": "DeepInfra", "model": "qwen/qwq-32b", "object": "chat.completion.chunk", "created": 1741741373, "choices": [{"index": 0, "delta": {"role": "assistant", "content": ""}, "finish_reason": null, "native_finish_reason": null, "logprobs": null}], "usage": {"prompt_tokens": 23, "completion_tokens": 2087, "total_tokens": 2110}}
